@@ -1,0 +1,64 @@
+2021-09-20 23:16:21,301 INFO    MainThread:15565 [internal.py:wandb_internal():89] W&B internal server running at pid: 15565, started at: 2021-09-20 23:16:21.301673
+2021-09-20 23:16:21,303 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: check_version
+2021-09-20 23:16:21,303 INFO    WriterThread:15565 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/run-3v3fvm9p.wandb
+2021-09-20 23:16:21,305 DEBUG   SenderThread:15565 [sender.py:send():182] send: header
+2021-09-20 23:16:21,305 DEBUG   SenderThread:15565 [sender.py:send_request():196] send_request: check_version
+2021-09-20 23:16:21,674 DEBUG   SenderThread:15565 [sender.py:send():182] send: run
+2021-09-20 23:16:21,678 DEBUG   SenderThread:15565 [git.py:repo():33] git repository is invalid
+2021-09-20 23:16:22,295 INFO    SenderThread:15565 [dir_watcher.py:__init__():169] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files
+2021-09-20 23:16:22,295 INFO    SenderThread:15565 [sender.py:_start_run_threads():743] run started: 3v3fvm9p with start time 1632159980
+2021-09-20 23:16:22,295 DEBUG   SenderThread:15565 [sender.py:send():182] send: summary
+2021-09-20 23:16:22,295 INFO    SenderThread:15565 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-09-20 23:16:22,296 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: run_start
+2021-09-20 23:16:22,299 DEBUG   HandlerThread:15565 [meta.py:__init__():40] meta init
+2021-09-20 23:16:22,299 DEBUG   HandlerThread:15565 [meta.py:__init__():54] meta init done
+2021-09-20 23:16:22,299 DEBUG   HandlerThread:15565 [meta.py:probe():211] probe
+2021-09-20 23:16:22,305 DEBUG   HandlerThread:15565 [git.py:repo():33] git repository is invalid
+2021-09-20 23:16:22,305 DEBUG   HandlerThread:15565 [meta.py:_save_code():90] save code
+2021-09-20 23:16:22,305 WARNING HandlerThread:15565 [meta.py:_save_code():92] unable to save code -- program entry not found
+2021-09-20 23:16:22,305 DEBUG   HandlerThread:15565 [meta.py:_save_pip():58] save pip
+2021-09-20 23:16:22,306 DEBUG   HandlerThread:15565 [meta.py:_save_pip():72] save pip done
+2021-09-20 23:16:22,306 DEBUG   HandlerThread:15565 [meta.py:_save_conda():79] save conda
+2021-09-20 23:16:23,297 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/requirements.txt
+2021-09-20 23:16:23,298 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/wandb-summary.json
+2021-09-20 23:16:23,298 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/conda-environment.yaml
+2021-09-20 23:16:28,301 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/output.log
+2021-09-20 23:16:29,601 DEBUG   HandlerThread:15565 [meta.py:_save_conda():87] save conda done
+2021-09-20 23:16:29,601 DEBUG   HandlerThread:15565 [meta.py:probe():249] probe done
+2021-09-20 23:16:29,628 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:16:29,628 DEBUG   SenderThread:15565 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:16:30,286 DEBUG   SenderThread:15565 [sender.py:send():182] send: files
+2021-09-20 23:16:30,290 INFO    SenderThread:15565 [sender.py:_save_file():873] saving file wandb-metadata.json with policy now
+2021-09-20 23:16:30,302 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/output.log
+2021-09-20 23:16:30,302 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/conda-environment.yaml
+2021-09-20 23:16:30,302 INFO    Thread-8  :15565 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/wandb-metadata.json
+2021-09-20 23:16:31,796 INFO    Thread-11 :15565 [upload_job.py:push():137] Uploaded file /tmp/tmp4qnt3l0twandb/38ib5bm0-wandb-metadata.json
+2021-09-20 23:16:45,287 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:16:45,288 DEBUG   SenderThread:15565 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:16:50,568 DEBUG   SenderThread:15565 [sender.py:send():182] send: stats
+2021-09-20 23:17:01,683 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:17:01,683 DEBUG   SenderThread:15565 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:17:17,694 DEBUG   HandlerThread:15565 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:17:17,694 DEBUG   SenderThread:15565 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:17:20,819 DEBUG   SenderThread:15565 [sender.py:send():182] send: stats
+2021-09-20 23:18:07,369 WARNING MainThread:15565 [internal.py:is_dead():365] Internal process exiting, parent pid 12167 disappeared
+2021-09-20 23:18:07,375 ERROR   MainThread:15565 [internal.py:wandb_internal():141] Internal process shutdown.
+2021-09-20 23:18:08,339 INFO    WriterThread:15565 [datastore.py:close():281] close: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/run-3v3fvm9p.wandb
+2021-09-20 23:18:08,343 INFO    SenderThread:15565 [sender.py:finish():979] shutting down sender
+2021-09-20 23:18:08,343 INFO    SenderThread:15565 [dir_watcher.py:finish():283] shutting down directory watcher
+2021-09-20 23:18:08,348 INFO    HandlerThread:15565 [handler.py:finish():683] shutting down handler
+2021-09-20 23:18:09,338 INFO    SenderThread:15565 [dir_watcher.py:finish():313] scan: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files
+2021-09-20 23:18:09,339 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/requirements.txt requirements.txt
+2021-09-20 23:18:09,340 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/config.yaml config.yaml
+2021-09-20 23:18:09,348 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/output.log output.log
+2021-09-20 23:18:09,358 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/wandb-metadata.json wandb-metadata.json
+2021-09-20 23:18:09,362 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/wandb-summary.json wandb-summary.json
+2021-09-20 23:18:09,368 INFO    SenderThread:15565 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/conda-environment.yaml conda-environment.yaml
+2021-09-20 23:18:09,369 INFO    SenderThread:15565 [file_pusher.py:finish():177] shutting down file pusher
+2021-09-20 23:18:09,369 INFO    SenderThread:15565 [file_pusher.py:join():182] waiting for file pusher
+2021-09-20 23:18:10,673 INFO    Thread-15 :15565 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/wandb-summary.json
+2021-09-20 23:18:10,719 INFO    Thread-13 :15565 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/config.yaml
+2021-09-20 23:18:10,765 INFO    Thread-14 :15565 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/output.log
+2021-09-20 23:18:10,825 INFO    Thread-12 :15565 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/requirements.txt
+2021-09-20 23:18:10,855 INFO    Thread-16 :15565 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_231606-3v3fvm9p/files/conda-environment.yaml
+2021-09-20 23:18:11,781 INFO    MainThread:15565 [internal.py:handle_exit():76] Internal process exited

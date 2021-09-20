@@ -1,0 +1,160 @@
+2021-09-20 23:03:56,846 INFO    MainThread:362006 [internal.py:wandb_internal():89] W&B internal server running at pid: 362006, started at: 2021-09-20 23:03:56.846545
+2021-09-20 23:03:56,848 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: check_version
+2021-09-20 23:03:56,848 INFO    WriterThread:362006 [datastore.py:open_for_write():77] open: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/run-2ck2bhwr.wandb
+2021-09-20 23:03:56,850 DEBUG   SenderThread:362006 [sender.py:send():182] send: header
+2021-09-20 23:03:56,850 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: check_version
+2021-09-20 23:03:57,174 DEBUG   SenderThread:362006 [sender.py:send():182] send: run
+2021-09-20 23:03:57,177 DEBUG   SenderThread:362006 [git.py:repo():33] git repository is invalid
+2021-09-20 23:03:57,750 INFO    SenderThread:362006 [dir_watcher.py:__init__():169] watching files in: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files
+2021-09-20 23:03:57,751 INFO    SenderThread:362006 [sender.py:_start_run_threads():743] run started: 2ck2bhwr with start time 1632159236
+2021-09-20 23:03:57,751 DEBUG   SenderThread:362006 [sender.py:send():182] send: summary
+2021-09-20 23:03:57,751 INFO    SenderThread:362006 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-09-20 23:03:57,751 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: run_start
+2021-09-20 23:03:57,754 DEBUG   HandlerThread:362006 [meta.py:__init__():40] meta init
+2021-09-20 23:03:57,755 DEBUG   HandlerThread:362006 [meta.py:__init__():54] meta init done
+2021-09-20 23:03:57,755 DEBUG   HandlerThread:362006 [meta.py:probe():211] probe
+2021-09-20 23:03:57,760 DEBUG   HandlerThread:362006 [git.py:repo():33] git repository is invalid
+2021-09-20 23:03:57,761 DEBUG   HandlerThread:362006 [meta.py:_save_code():90] save code
+2021-09-20 23:03:57,761 WARNING HandlerThread:362006 [meta.py:_save_code():92] unable to save code -- program entry not found
+2021-09-20 23:03:57,761 DEBUG   HandlerThread:362006 [meta.py:_save_pip():58] save pip
+2021-09-20 23:03:57,761 DEBUG   HandlerThread:362006 [meta.py:_save_pip():72] save pip done
+2021-09-20 23:03:57,761 DEBUG   HandlerThread:362006 [meta.py:_save_conda():79] save conda
+2021-09-20 23:03:58,753 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/conda-environment.yaml
+2021-09-20 23:03:58,754 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/requirements.txt
+2021-09-20 23:03:58,754 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-summary.json
+2021-09-20 23:04:03,757 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/output.log
+2021-09-20 23:04:05,040 DEBUG   HandlerThread:362006 [meta.py:_save_conda():87] save conda done
+2021-09-20 23:04:05,040 DEBUG   HandlerThread:362006 [meta.py:probe():249] probe done
+2021-09-20 23:04:05,063 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:04:05,063 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:04:05,641 DEBUG   SenderThread:362006 [sender.py:send():182] send: files
+2021-09-20 23:04:05,644 INFO    SenderThread:362006 [sender.py:_save_file():873] saving file wandb-metadata.json with policy now
+2021-09-20 23:04:05,758 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/conda-environment.yaml
+2021-09-20 23:04:05,758 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/output.log
+2021-09-20 23:04:05,759 INFO    Thread-8  :362006 [dir_watcher.py:_on_file_created():217] file/dir created: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-metadata.json
+2021-09-20 23:04:06,882 INFO    Thread-11 :362006 [upload_job.py:push():137] Uploaded file /tmp/tmp9v8a2qnawandb/39w2f3qj-wandb-metadata.json
+2021-09-20 23:04:20,642 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:04:20,642 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:04:25,985 DEBUG   SenderThread:362006 [sender.py:send():182] send: stats
+2021-09-20 23:04:36,198 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:04:36,199 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:04:51,826 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:04:51,827 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:04:56,250 DEBUG   SenderThread:362006 [sender.py:send():182] send: stats
+2021-09-20 23:05:07,406 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:05:07,407 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:05:22,972 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:05:22,972 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:05:26,525 DEBUG   SenderThread:362006 [sender.py:send():182] send: stats
+2021-09-20 23:05:38,540 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: stop_status
+2021-09-20 23:05:38,540 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: stop_status
+2021-09-20 23:05:52,244 WARNING MainThread:362006 [internal.py:wandb_internal():145] Internal process interrupt: 1
+2021-09-20 23:05:52,879 DEBUG   SenderThread:362006 [sender.py:send():182] send: telemetry
+2021-09-20 23:05:52,879 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:52,879 DEBUG   SenderThread:362006 [sender.py:send():182] send: exit
+2021-09-20 23:05:52,879 INFO    SenderThread:362006 [sender.py:send_exit():291] handling exit code: 0
+2021-09-20 23:05:52,879 INFO    SenderThread:362006 [sender.py:send_exit():293] handling runtime: 115
+2021-09-20 23:05:52,884 INFO    SenderThread:362006 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-09-20 23:05:52,884 INFO    SenderThread:362006 [sender.py:send_exit():303] send defer
+2021-09-20 23:05:52,884 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:52,884 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:52,885 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 0
+2021-09-20 23:05:52,885 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:52,885 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 0
+2021-09-20 23:05:52,885 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 1
+2021-09-20 23:05:52,885 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:52,885 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 1
+2021-09-20 23:05:52,956 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:52,957 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 1
+2021-09-20 23:05:52,957 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 2
+2021-09-20 23:05:52,957 DEBUG   SenderThread:362006 [sender.py:send():182] send: stats
+2021-09-20 23:05:52,957 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:52,957 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 2
+2021-09-20 23:05:52,957 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:52,957 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 2
+2021-09-20 23:05:52,957 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 3
+2021-09-20 23:05:52,957 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:52,957 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 3
+2021-09-20 23:05:52,957 DEBUG   SenderThread:362006 [sender.py:send():182] send: summary
+2021-09-20 23:05:52,958 INFO    SenderThread:362006 [sender.py:_save_file():873] saving file wandb-summary.json with policy end
+2021-09-20 23:05:52,958 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:52,958 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 3
+2021-09-20 23:05:52,958 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 4
+2021-09-20 23:05:52,958 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:52,958 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 4
+2021-09-20 23:05:52,958 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:52,958 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 4
+2021-09-20 23:05:52,989 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:53,520 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 5
+2021-09-20 23:05:53,520 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:53,521 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:53,521 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 5
+2021-09-20 23:05:53,521 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:53,521 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 5
+2021-09-20 23:05:53,521 INFO    SenderThread:362006 [dir_watcher.py:finish():283] shutting down directory watcher
+2021-09-20 23:05:53,623 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:53,783 INFO    SenderThread:362006 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/output.log
+2021-09-20 23:05:53,783 INFO    SenderThread:362006 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/config.yaml
+2021-09-20 23:05:53,783 INFO    SenderThread:362006 [dir_watcher.py:_on_file_modified():230] file/dir modified: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-summary.json
+2021-09-20 23:05:53,784 INFO    SenderThread:362006 [dir_watcher.py:finish():313] scan: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files
+2021-09-20 23:05:53,784 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/requirements.txt requirements.txt
+2021-09-20 23:05:53,784 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/config.yaml config.yaml
+2021-09-20 23:05:53,784 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-summary.json wandb-summary.json
+2021-09-20 23:05:53,790 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/conda-environment.yaml conda-environment.yaml
+2021-09-20 23:05:53,802 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/output.log output.log
+2021-09-20 23:05:53,802 INFO    SenderThread:362006 [dir_watcher.py:finish():327] scan save: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-metadata.json wandb-metadata.json
+2021-09-20 23:05:53,802 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 6
+2021-09-20 23:05:53,807 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:53,814 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:53,814 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 6
+2021-09-20 23:05:53,814 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:53,814 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 6
+2021-09-20 23:05:53,814 INFO    SenderThread:362006 [file_pusher.py:finish():177] shutting down file pusher
+2021-09-20 23:05:53,916 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:53,916 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,017 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,017 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,118 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,118 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,220 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,220 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,321 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,322 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,423 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,423 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,524 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,525 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,626 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,626 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:54,729 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: poll_exit
+2021-09-20 23:05:54,729 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: poll_exit
+2021-09-20 23:05:55,053 INFO    Thread-12 :362006 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/requirements.txt
+2021-09-20 23:05:55,068 INFO    Thread-13 :362006 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/config.yaml
+2021-09-20 23:05:55,098 INFO    Thread-14 :362006 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/wandb-summary.json
+2021-09-20 23:05:55,159 INFO    Thread-15 :362006 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/conda-environment.yaml
+2021-09-20 23:05:55,347 INFO    Thread-16 :362006 [upload_job.py:push():137] Uploaded file /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/files/output.log
+2021-09-20 23:05:55,548 INFO    Thread-7  :362006 [sender.py:transition_state():316] send defer: 7
+2021-09-20 23:05:55,548 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:55,548 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 7
+2021-09-20 23:05:55,549 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:55,549 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 7
+2021-09-20 23:05:56,313 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 8
+2021-09-20 23:05:56,314 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:56,314 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 8
+2021-09-20 23:05:56,314 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:56,314 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 8
+2021-09-20 23:05:56,314 INFO    SenderThread:362006 [sender.py:transition_state():316] send defer: 9
+2021-09-20 23:05:56,315 DEBUG   HandlerThread:362006 [handler.py:handle_request():126] handle_request: defer
+2021-09-20 23:05:56,315 DEBUG   SenderThread:362006 [sender.py:send():182] send: final
+2021-09-20 23:05:56,315 INFO    HandlerThread:362006 [handler.py:handle_request_defer():143] handle defer: 9
+2021-09-20 23:05:56,315 DEBUG   SenderThread:362006 [sender.py:send():182] send: footer
+2021-09-20 23:05:56,315 DEBUG   SenderThread:362006 [sender.py:send_request():196] send_request: defer
+2021-09-20 23:05:56,315 INFO    SenderThread:362006 [sender.py:send_request_defer():312] handle sender defer: 9
+2021-09-20 23:05:58,250 WARNING MainThread:362006 [internal.py:is_dead():365] Internal process exiting, parent pid 351261 disappeared
+2021-09-20 23:05:58,251 ERROR   MainThread:362006 [internal.py:wandb_internal():141] Internal process shutdown.
+2021-09-20 23:05:58,315 INFO    WriterThread:362006 [datastore.py:close():281] close: /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230341-2ck2bhwr/run-2ck2bhwr.wandb
+2021-09-20 23:05:58,315 INFO    SenderThread:362006 [sender.py:finish():979] shutting down sender
+2021-09-20 23:05:58,315 INFO    SenderThread:362006 [file_pusher.py:finish():177] shutting down file pusher
+2021-09-20 23:05:58,316 INFO    SenderThread:362006 [file_pusher.py:join():182] waiting for file pusher
+2021-09-20 23:05:58,317 INFO    HandlerThread:362006 [handler.py:finish():683] shutting down handler
+2021-09-20 23:05:58,318 INFO    MainThread:362006 [internal.py:handle_exit():76] Internal process exited

@@ -1,0 +1,206 @@
+2021-09-20 23:08:19,435 INFO    MainThread:364369 [wandb_setup.py:_flush():69] setting env: {}
+2021-09-20 23:08:19,435 INFO    MainThread:364369 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-09-20 23:08:19,435 INFO    MainThread:364369 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230819-2hlc6cez/logs/debug.log
+2021-09-20 23:08:19,435 INFO    MainThread:364369 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230819-2hlc6cez/logs/debug-internal.log
+2021-09-20 23:08:19,436 INFO    MainThread:364369 [wandb_init.py:_jupyter_setup():294] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fca80f263d0>
+2021-09-20 23:08:19,436 INFO    MainThread:364369 [wandb_init.py:init():375] calling init triggers
+2021-09-20 23:08:19,436 INFO    MainThread:364369 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-09-20 23:08:19,436 INFO    MainThread:364369 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 37xca7hn
+2021-09-20 23:08:19,437 INFO    MainThread:364369 [wandb_run.py:finish():1271] finishing run ranuga-d/cyber-bullying-for-NLP/37xca7hn
+2021-09-20 23:08:19,438 INFO    MainThread:364369 [wandb_run.py:_atexit_cleanup():1571] got exitcode: 0
+2021-09-20 23:08:19,438 INFO    MainThread:364369 [wandb_run.py:_restore():1543] restore
+2021-09-20 23:08:19,645 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 722
+}
+
+2021-09-20 23:08:20,275 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 722
+}
+
+2021-09-20 23:08:20,636 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:20,739 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:20,840 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:20,942 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,043 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,144 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,245 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,347 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 722
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,448 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,551 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,652 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,754 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,856 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:21,959 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:22,060 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:22,755 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:22,857 INFO    MainThread:364369 [wandb_run.py:_wait_for_finish():1693] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 24305
+  total_bytes: 24305
+}
+
+2021-09-20 23:08:23,950 INFO    MainThread:364369 [wandb_run.py:_show_files():1915] logging synced files
+2021-09-20 23:08:23,955 INFO    MainThread:364369 [wandb_init.py:init():424] starting backend
+2021-09-20 23:08:23,956 INFO    MainThread:364369 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-09-20 23:08:23,957 INFO    MainThread:364369 [backend.py:ensure_launched():135] starting backend process...
+2021-09-20 23:08:24,011 INFO    MainThread:364369 [backend.py:ensure_launched():140] started backend process with pid: 367059
+2021-09-20 23:08:24,012 INFO    MainThread:364369 [wandb_init.py:init():429] backend started and connected
+2021-09-20 23:08:24,024 INFO    MainThread:364369 [wandb_run.py:_label_probe_notebook():815] probe notebook
+2021-09-20 23:08:24,024 INFO    MainThread:364369 [wandb_init.py:init():477] updated telemetry
+2021-09-20 23:08:24,024 INFO    MainThread:364369 [wandb_init.py:init():500] communicating current version
+2021-09-20 23:08:24,863 INFO    MainThread:364369 [wandb_init.py:init():505] got version response upgrade_message: "wandb version 0.12.2 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2021-09-20 23:08:24,863 INFO    MainThread:364369 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-09-20 23:08:25,467 INFO    MainThread:364369 [wandb_init.py:init():540] starting run threads in backend
+2021-09-20 23:08:30,473 INFO    MainThread:364369 [wandb_run.py:_console_start():1601] atexit reg
+2021-09-20 23:08:30,473 INFO    MainThread:364369 [wandb_run.py:_redirect():1475] redirect: SettingsConsole.WRAP
+2021-09-20 23:08:30,474 INFO    MainThread:364369 [wandb_run.py:_redirect():1512] Wrapping output streams.
+2021-09-20 23:08:30,474 INFO    MainThread:364369 [wandb_run.py:_redirect():1536] Redirects installed.
+2021-09-20 23:08:30,474 INFO    MainThread:364369 [wandb_init.py:init():565] run started, returning control to user process
+2021-09-20 23:08:30,503 INFO    MainThread:364369 [wandb_init.py:_pause_backend():256] pausing backend
+2021-09-20 23:08:30,503 INFO    MainThread:364369 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-09-20 23:08:31,082 INFO    MainThread:364369 [wandb_init.py:_pause_backend():260] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7fca919a16d0>
+2021-09-20 23:09:24,279 INFO    MainThread:364369 [wandb_init.py:_resume_backend():265] resuming backend
+2021-09-20 23:09:24,281 INFO    MainThread:364369 [wandb_init.py:_pause_backend():256] pausing backend
+2021-09-20 23:09:24,281 INFO    MainThread:364369 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-09-20 23:09:24,861 INFO    MainThread:364369 [wandb_init.py:_pause_backend():260] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7fcac40ce310>
+2021-09-20 23:09:24,866 INFO    MainThread:364369 [wandb_init.py:_resume_backend():265] resuming backend
+2021-09-20 23:09:24,931 INFO    MainThread:364369 [wandb_init.py:_pause_backend():256] pausing backend
+2021-09-20 23:09:24,931 INFO    MainThread:364369 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-09-20 23:09:25,982 INFO    MainThread:364369 [wandb_init.py:_pause_backend():260] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7fca80f26d90>
+2021-09-20 23:09:25,989 INFO    MainThread:364369 [wandb_init.py:_resume_backend():265] resuming backend
+2021-09-20 23:09:25,996 INFO    MainThread:364369 [wandb_setup.py:_flush():69] setting env: {}
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230925-gemdhitn/logs/debug.log
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/cyber-bullying-for-NLP/wandb/run-20210920_230925-gemdhitn/logs/debug-internal.log
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_init.py:init():375] calling init triggers
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-09-20 23:09:25,997 INFO    MainThread:364369 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 2hlc6cez
+2021-09-20 23:09:25,998 INFO    MainThread:364369 [wandb_run.py:finish():1271] finishing run ranuga-d/cyber-bullying-for-NLP/2hlc6cez
